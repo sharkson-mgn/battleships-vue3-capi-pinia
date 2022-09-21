@@ -4,7 +4,7 @@
 
 Attention! This project is still being developed.
 
-Hello! I am glad to present You my BattleShips game written using technologies such as Vue3, HTML5, CSS3, Bootstrap 5, jQuery and Vuex, using Options API. Created this for experience so if You saw something wrong with this code, pm me!
+Hello! I am glad to present You my BattleShips game written using technologies such as Vue3, HTML5, CSS3, Bootstrap 5, jQuery and Pinia, using Composition API. Created this for experience so if You saw something wrong with this code, pm me!
 
 # Todo
 - [x] Menu to select difficulty
